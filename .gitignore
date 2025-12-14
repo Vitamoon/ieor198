@@ -1,4 +1,6 @@
 longshort_strategy part 2.ipynb
+stock_data.parquet
+.claude/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
